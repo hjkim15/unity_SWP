@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fcd93f6a28474764d95464d169bbe2ee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Typo_SsangmunDong
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c33cc68e2b65a848874fe87f8affad2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

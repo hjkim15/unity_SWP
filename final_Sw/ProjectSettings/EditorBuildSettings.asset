@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: 37d881844ad6d254d95af88779b6da66
+  - enabled: 1
+    path: Assets/Scenes/calendarScene.unity
+    guid: 76b6de7f0be7f4dd59ea817e57d70539
+  - enabled: 1
+    path: Assets/Scenes/commute.unity
+    guid: 13bace6cdc8be46ac99396a9a315d279
+  - enabled: 1
+    path: Assets/Scenes/commute_climb.unity
+    guid: c076df9435fda4ae3a3614b661e4893f
+  - enabled: 1
+    path: Assets/Scenes/endScene.unity
+    guid: 97e2dffbf64f24eba8adaed4600aa1b4
+  - enabled: 1
+    path: Assets/Scenes/examScene.unity
+    guid: 4a6508a72addb494083e15370a2273c5
+  - enabled: 1
+    path: Assets/Scenes/HomeworkScene.unity
+    guid: bc66865594b4b144b838805eb88f4dbd
+  - enabled: 1
+    path: Assets/Scenes/MTGame.unity
+    guid: 58ece021e205d8048b064a8ad54aac97
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 4a3eda5f1af2aa74ea9331dabc602997
+  - enabled: 1
+    path: Assets/Scenes/registerScene.unity
+    guid: a25a95d377a724948bd46c93b3efa622
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterByunScene.unity
+    guid: 14f9bfeba64bce144962219defc54868
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterDoYeonScene.unity
+    guid: 093e5b24ef41dfb4b93b773d4b43cf4a
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterHeeJoScene.unity
+    guid: 94d73778e07a34b448afb61f469568a8
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterHongScene.unity
+    guid: 391be2a495b44b04c96b5d70d840b397
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterJiHyeScene.unity
+    guid: 82d6df2472b881341855d262d32c083a
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterKimScene.unity
+    guid: c707193adc243364393b256eb2e739fa
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AfterMoonJungScene.unity
+    guid: c0532b8d6346f9341b6eb68d042e5ac2
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/AlbaScene.unity
+    guid: f7c8c983a05d1174d918e8cf81335aaf
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunCreamScene.unity
+    guid: 69a8069555b053b46ae431ccf11a804c
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunCupSizeScene.unity
+    guid: b52fc4a484e18f24ab7973dcf205e74d
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunLiquidScene.unity
+    guid: 38b060ae41c62944a8fe0fdf5e5d14cf
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunScene.unity
+    guid: c06cbb60667b93f41b78866a052b0f8e
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunShotScene.unity
+    guid: b4c47bc240c02b54f871cde687c9ed87
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunSyrupScene.unity
+    guid: 41211b646813c954aae11c97ff6da9eb
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/ByunToppingScene.unity
+    guid: 9653908ef6f8cd843bc2ca1110c93907
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/DoYeonCupSizeScene.unity
+    guid: 071887dd16548f74887355cb3024b5e4
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/DoYeonLiquidScene.unity
+    guid: 53d84911b755641478a216f545d64310
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/DoYeonScene.unity
+    guid: 080a1e8c726a28445bfae016c3387f65
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/DoYeonShotScene.unity
+    guid: 896a673327b98874e8ae4b2484cc5c6a
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/DoYeonSyrupScene.unity
+    guid: ebd90c5952a8c6c47a703555db48ccbc
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/EndingScene.unity
+    guid: 2d5f2d8ce58bc5c4397432caf90ff3be
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HeeJoCupSizeScene.unity
+    guid: 21205b306656d11488f310cc405786de
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HeeJoLiquidScene.unity
+    guid: 462f62b3ff76bf0488febef7c007fa11
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HeeJoScene.unity
+    guid: f4eae52dceaa29440ac978618ccbc6b2
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HeeJoShotScene.unity
+    guid: ab27665300531bf48bc5b89a4ed13184
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HeeJoSyrupScene.unity
+    guid: 88c8e69a631796a448f4ffcc435aae36
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongCreamScene.unity
+    guid: f16193a57370f71409dac6b27d1b1b30
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongCupSizeScene.unity
+    guid: 094410dcaf83eb640a9382c0790d31fa
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongLiquidScene.unity
+    guid: 85fa4198768b29f4d8727e3d040c2cae
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongScene.unity
+    guid: ca527e24572306642a18275a6590ba13
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongShotScene.unity
+    guid: 3378ba194a5b7434b8bb5261277a8463
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongSyrupScene.unity
+    guid: 42ddc3ceee2022f419c8b9f4c28497e1
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/HongToppingScene.unity
+    guid: a1b2af5dc0bc9444cb7d29ef18e7dcad
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/Initial2Scene.unity
+    guid: bb113910f81c8ed4891859d1ba00bf95
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/InitialScene.unity
+    guid: 0ea1f84b4b61dfa41974183264d1cd1d
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/JiHyeCupSizeScene.unity
+    guid: 3bc066671c5daa2498142caac8007b21
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/JiHyeLiquidScene.unity
+    guid: 7d0dc3134eda69243adb51d91e92daf3
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/JiHyeScene.unity
+    guid: 15b06a04f975e1e46a3f20de864ecfa6
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/JiHyeShotScene.unity
+    guid: 5afb4e8fde5aa3c4389ea12e7db92832
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/JiHyeSyrupScene.unity
+    guid: e2cff1311e45b5c41a448f3fc3c2ff13
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimCreamScene.unity
+    guid: 3678727e8ee49ef4696907d0bd6e0287
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimCupSizeScene.unity
+    guid: f2d98ba517af30f4aae66174a75983d6
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimLiquidScene.unity
+    guid: 679f8aa91e27e714b9a4d42bd6845da3
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimScene.unity
+    guid: fd9887b7f5503f0438dd5141b10cdf0a
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimShotScene.unity
+    guid: 040186802a4f7ff41811482375ef8fe4
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimSyrupScene.unity
+    guid: 1c6b800d84a1a2b4e8527d2a3e55fba8
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/KimToppingScene.unity
+    guid: 49f94d1245b5e464fb7c59adeb5cf43e
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/MoonJungCupSizeScene.unity
+    guid: 8e1405426484a2a44b2643ab359e209a
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/MoonJungLiquidScene.unity
+    guid: 20378e41e28f0bf4a9b5ac4bc7444530
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/MoonJungScene.unity
+    guid: 188f6b81b18277b40b87facebddfbb49
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/MoonJungShotScene.unity
+    guid: 40f37be7eb795b44fbe7dd1407c21090
+  - enabled: 1
+    path: Assets/Scenes/AlbaScene/MoonJungSyrupScene.unity
+    guid: b87dbdbfa80bcc64b970e9de526582c0
+  m_configObjects: {}
