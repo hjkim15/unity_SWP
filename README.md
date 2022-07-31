@@ -1,3 +1,5 @@
+![수정관](https://github.com/hjkim15/unity_SWP/blob/9a131f97a3d45b6eaafe91228baad7707c1c7429/final_Sw/Assets/startScene/background_quiz.png)Welcome to the unity_SWP wiki!
+
 # unity_SWP
 소웨경 출품작
 
@@ -16,4 +18,14 @@ Unity를 통해 2D 게임을 개발
 여러 개별 게임들을 각자 Clear 할 때 다음 게임으로 넘어가는 방식으로 구현
 
 
-[for more information (in Korean)](https://github.com/hjkim15/unity_SWP/blob/bca913e16325ca5ff89254c6f665f065ff6ca4c5/ppt/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+
+
+[게임 시연 영상 (demonstration video 5min.)](https://youtu.be/tuRehdzszog)
+
+
+[게임 시연 영상 (demonstration video full ver.)](https://youtu.be/-S89kOlO0Sk)
+
+
+[about our game (short ver.)](https://github.com/hjkim15/unity_SWP/blob/9a6506b2f3d522d323f221db616942b67b93caea/ppt/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(short%20ver.).pdf)
+
+[about our game (full ver.)](https://github.com/hjkim15/unity_SWP/blob/9a6506b2f3d522d323f221db616942b67b93caea/ppt/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
