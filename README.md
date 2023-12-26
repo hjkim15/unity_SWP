@@ -10,12 +10,12 @@ Since this project's aim it to experience University life, project scenes are de
 
 Not only for freshmen of Sungshin Univ, but also for students who wish to enroll, this project may be a way to promote Sungshin University, if published in future. 
 
-As this project was designed for 'software 경진대회..?', it 2022학년도 1학기 AI융합학부 기준으로 진행됩니다
+(2022학년도 1학기 AI융합학부 기준으로 진행됩니다
 
 
-Unity를 통해 2D 게임을 개발
-각 게임마다 씬으로 구성하여 연결
-여러 개별 게임들을 각자 Clear 할 때 다음 게임으로 넘어가는 방식으로 구현
+- Unity를 통해 2D 게임을 개발
+- 각 게임마다 씬으로 구성하여 연결
+- 여러 개별 게임들을 각자 Clear 할 때 다음 게임으로 넘어가는 방식으로 구현
 
 
 
